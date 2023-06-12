@@ -217,8 +217,8 @@ img {
 .section3 {
   max-width: 1100px;
   min-width: 900px;
-  margin: 0 auto;
-  padding-bottom: 13rem;
+  margin: 0 auto 12rem auto;
+  padding-bottom: 2rem;
 }
 
 .contact-content-con {
